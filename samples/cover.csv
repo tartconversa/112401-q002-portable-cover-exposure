@@ -1,0 +1,8 @@
+cover_id,month,platform,zone,state,limit,rate_per_hour
+PC6,2026-06,Pine,N,carry,800,4
+PC6,2026-06,Pine,N,wait,800,4
+PC7,2026-07,Pine,N,carry,600,5
+PC7,2026-07,Pine,N,wait,600,5
+LC6,2026-06,Lake,N,carry,900,4
+LC7,2026-07,Lake,N,carry,500,5
+LC7S,2026-07,Lake,S,carry,300,5
